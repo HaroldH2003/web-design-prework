@@ -28,7 +28,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
     background-color: rgb(25, 25, 25);
-    font-family: serif;
+    font-family: 'Helvertica', sans-serif;
 }
 ol, ul {
 	list-style: none;
@@ -51,7 +51,7 @@ table {
 .container {
     background-color: white;
     width: 525px;
-    height: 788px;
+    height: 700px;
     padding: 12px 0px 0px 12px;
     margin: 0 auto;
 }
@@ -59,7 +59,7 @@ table {
 .content-holder {
     background-color: white;
     width: 490px;
-    height: 760px;
+    height: 680px;
     box-shadow: 10px 10px 3px #e6e6e6;
     border: solid 1px lightgrey;
     padding-left: 10px;
@@ -67,7 +67,6 @@ table {
 
 h2 {
     font-weight: 700;
-    font-family: 'Helvertica', sans-serif;
     font-size: 30px;
 }
 
